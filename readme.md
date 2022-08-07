@@ -46,3 +46,7 @@ Make sure you have [node](https://nodejs.org/en/) installed.
 ### Usage:
 
 Once the app is set up, run node index.js and answer the questions to generate your readme. The only thing that breaks the app is if the username entered doesn't match one found on GitHub. You can just run node index.js again to retry. 
+
+![recording of application being used on terminal".](./Recording.gif) / ! [](./Recording.gif)
+
+URL for deployed application is: https://huwrichmond.github.io/Readme_Generator/
